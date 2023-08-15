@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there 👋 , Welcome to my Github 😄
 
-List of my projects :
+List of my projects : 
 - <a href="https://github.com/Rashedul007/DataAnalysis" target="_blank" rel="noopener noreferrer">Data Analysis</a>
 - <a href="https://github.com/Rashedul007/WebDevelopment" target="_blank" rel="noopener noreferrer">Web Development</a>
  
-| [top](#smileys--emotion) | :smile: | `:smile:` | :grin: | `:grin:` | [top](#table-of-contents) |
 
-:smile:
 
 <!--
 **Rashedul007/Rashedul007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
