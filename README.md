@@ -1,3 +1,6 @@
+
+<img src="https://i.gifer.com/QWc9.gif" alt="Data Analysis">
+
 ### Hi there 👋 , Welcome to my Github 😄
 
 <br>
