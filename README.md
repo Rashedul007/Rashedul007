@@ -1,5 +1,6 @@
+![MasterHead]("https://i.gifer.com/QWc9.gif")
 
-<img src="https://i.gifer.com/QWc9.gif" alt="Data Analysis"  width="500" height="600">
+
 
 ### Hi there 👋 , Welcome to my Github 😄
 
