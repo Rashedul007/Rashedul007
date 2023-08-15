@@ -1,4 +1,4 @@
-<img src="https://gifer.com/embed/QWc9" width=480 height=480.000 frameBorder="0" allowFullScreen></img>
+<img src="https://gifer.com/embed/QWc9" width=480 height=480></img>
 
 
 
