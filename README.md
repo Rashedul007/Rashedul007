@@ -9,13 +9,11 @@
 ### Hi there 👋 , Welcome to my Github 😄
 
 <br>
-List of my projects : 
-<ul>
-<li> <a href="https://github.com/Rashedul007/DataAnalysis">👉 Data Analysis</a> </li>
-<li> <a href="https://github.com/Rashedul007/WebDevelopment">👉 Web Development</a> </li>
-</ul> 
+List of my projects :
 
+<br>
 
+- <a href="https://github.com/Rashedul007/WealthOfNations">👉 <b>Tableau Report</b> </a> on Wealth Of Nations - JustIT
 
 
 
