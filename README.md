@@ -11,9 +11,13 @@
 <br>
 List of my projects : 
 <ul>
-<li> <a href="https://github.com/Rashedul007/DataAnalysis" target="_blank" rel="noopener noreferrer">👉 Data Analysis</a> </li>
-<li> <a href="https://github.com/Rashedul007/WebDevelopment" target="_blank" rel="noopener noreferrer">👉 Web Development</a> </li>
+<li> <a href="https://github.com/Rashedul007/DataAnalysis">👉 Data Analysis</a> </li>
+<li> <a href="https://github.com/Rashedul007/WebDevelopment">👉 Web Development</a> </li>
 </ul> 
+
+
+
+
 
 
 <!--
