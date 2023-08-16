@@ -14,6 +14,7 @@ List of my projects :
 <br>
 
 - <a href="https://github.com/Rashedul007/WealthOfNations">👉 <b>Tableau Report</b> </a> on Wealth Of Nations - JustIT
+- <a href="https://github.com/Rashedul007/BritJobs">👉 <b>Tableau Report</b> </a> on British Job Industry - JustIT
 
 
 
