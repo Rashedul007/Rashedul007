@@ -21,8 +21,8 @@
 <a href="#"> &nbsp &nbsp <img src="https://github.com/Rashedul007/Rashedul007/assets/6073602/24756cb4-b31c-41a4-9580-c1f1d6e7ebe0" height="55" alt="MySql" /> </a>
 <a href="#"> &nbsp &nbsp <img src="https://github.com/Rashedul007/Rashedul007/assets/6073602/aa44d039-e4a3-4583-8d56-0317db7c9e5f"  height="55" alt="Pandas" /> </a>
 <a href="#"> &nbsp &nbsp <img src="https://github.com/Rashedul007/Rashedul007/assets/6073602/d8ef03af-e404-4df4-b529-0c15796314a4"  height="50" alt="Excel" /> </a>
-<a href="#">  &nbsp &nbsp  <img src="https://github.com/Rashedul007/Rashedul007/assets/6073602/5be34722-8fa5-47a1-b570-d1d77c3729e8" height="75"  alt="Azure" /> </a>
-<a href="#"> <img src="https://github.com/Rashedul007/Rashedul007/assets/6073602/746ebe0f-882b-4e9c-b37e-cdad6b158b67" height="30" alt="R"  /> </a>
+<a href="#">  &nbsp &nbsp <img src="https://github.com/Rashedul007/Rashedul007/assets/6073602/04c1862f-3ef8-4672-b712-d7dbc9653afe" height="55"  alt="Azure" /> </a>
+<a href="#">  &nbsp &nbsp <img src="https://github.com/Rashedul007/Rashedul007/assets/6073602/746ebe0f-882b-4e9c-b37e-cdad6b158b67" height="40" alt="R"  /> </a>
 
 </p>
 
