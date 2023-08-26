@@ -8,6 +8,7 @@
 - <a href="https://github.com/Rashedul007/WealthOfNations">👉 <b>Tableau Report</b> </a> on Wealth Of Nations - JustIT
 - <a href="https://github.com/Rashedul007/BritJobs">👉 <b>Tableau Report</b> </a> on British Job Industry - JustIT
 - <a href="https://github.com/Rashedul007/python_JustIt">👉 <b>Python </b> </a> ELT, analysis &  visualization - JustIT
+- - <a href="#">👉 <b>SQL </b> </a>  - JustIT
 
 
 
