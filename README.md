@@ -7,7 +7,7 @@
   
 - <a href="https://github.com/Rashedul007/WealthOfNations">👉 <b>Tableau Report</b> </a> on Wealth Of Nations 
 - <a href="https://github.com/Rashedul007/BritJobs">👉 <b>Tableau Report</b> </a> on British Job Industry
-- - <a href="#">👉 <b>Power BI Report</b> </a> on Hollywodd Movies 
+- <a href="#">👉 <b>Power BI Report</b> </a> on Hollywodd Movies 
 - <a href="https://github.com/Rashedul007/python_JustIt">👉 <b>Python </b> </a> ELT, analysis &  visualization
 - <a href="#">👉 <b>SQL </b> </a>  
 - <a href="https://github.com/Rashedul007/R_JustIt">👉 <b>R programming </b> </a> ELT, analysis &  visualization
